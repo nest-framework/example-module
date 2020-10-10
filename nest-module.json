@@ -1,1 +1,7 @@
-{"entrypoint":"module.py","version":"1.0.0","dependencies": []}
+{
+ "entrypoint": "module.py",
+ "version": "1.0.0",
+ "dependencies": [
+
+ ]
+}
